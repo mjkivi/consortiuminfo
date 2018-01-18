@@ -1,0 +1,89 @@
+/* ---------------------------------------------------------- */
+/* OSP STRUCTURE */
+/* ---------------------------------------------------------- */
+.OspContent {
+	margin: 0px;
+	padding: 0px;
+	clear: both;
+	background: #ffffff;
+	display:block;
+}
+
+.OspSideSponsor {
+	width: 154px;
+	background: #f2f6f6;
+	margin: 12px 0px 0px 0px;
+	padding: 0px;
+	float: left;
+}
+
+.OspMain {
+	width: 580px;
+	margin: 0px;
+	padding: 0px 0px 0px 22px;
+	float: left;
+}
+
+.OspMain h1 {
+	font-family: georgia,serif;
+	font-size: 28px;
+	color: #000000;
+	text-align: center;
+	margin: 0px;
+	padding: 15px 0px 0px 0px;
+}
+
+/************************/
+
+table.OspHelp { 
+	background: #f2f6f6;
+	width: 580px;
+	margin: 0px 0px 10px 0px;
+	padding: 0px;
+}
+
+.OspHelpHead {
+	font-family: georgia,serif;
+	font-size: 18px;
+	color: #000000;
+	text-align: center;
+	margin: 0px;
+	padding: 10px 0px 8px 0px;
+}
+
+.OspHelpBody1, .OspHelpBody2 {
+	font-family: verdana,arial,sans-serif;
+	font-size: 11px;
+	line-height: 14px;
+	color: #000000;
+	text-align: left;
+	padding: 0px 15px 15px 0px;
+	margin: 0px;
+}
+
+.OspHelpBody2 { text-align: center; }
+
+.OspSectionHeader {
+	font-family: georgia,serif;
+	font-size: 16px;
+	color: #001c9d;
+	text-align: left;
+	margin: 0px;
+	padding: 8px 0px 0px 0px;
+}
+
+/************************/
+
+/* ---------------------------------------------------------- */
+/* RULES */
+/* ---------------------------------------------------------- */
+div.hr { display: none; }
+/*/*/a{}
+div.hr {
+	display: block;
+	height: 11px;
+	background: url(../images/layout/hr_rule.gif) no-repeat center center;
+	margin: 0px;
+	padding: 0px;
+}
+hr { display:none; }

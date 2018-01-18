@@ -1,0 +1,57 @@
+/* ---------------------------------------------------------- */
+/* JOURNAL STRUCTURE */
+/* ---------------------------------------------------------- */
+.JournalContent {
+	margin: 0px;
+	padding: 0px;
+	clear: both;
+	background: #ffffff;
+	display:block;
+}
+
+.JournalSideSponsor {
+	width: 154px;
+	background: #f2f6f6;
+	margin: 12px 0px 0px 0px;
+	padding: 0px;
+	float: left;
+}
+
+.JournalMain {
+	width: 580px;
+	margin: 0px;
+	padding: 0px 0px 0px 22px;
+	float: left;
+}
+
+.JournalMain h1 {
+	font-family: georgia,serif;
+	font-size: 28px;
+	color: #000000;
+	text-align: center;
+	margin: 0px;
+	padding: 15px 0px 5px 0px;
+}
+
+h2 {
+	margin: 15px 0px 0px 0px;
+	Padding: 0px;
+}
+
+.contentFill {
+	margin: 0; 
+	padding: 5px 0px;
+	clear: both;
+	background: #ffffff;
+}
+
+table.tableArchive td { vertical-align: top; }
+
+li.numbers {
+	list-style-type: decimal;
+	padding-left: 0px;
+	margin-left: 20px;
+	background-image: none;
+	background-position: 0 0;
+	background-repeat: no-repeat;
+}

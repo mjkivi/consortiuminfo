@@ -1,0 +1,16 @@
+[13-Jul-2016 15:10:45 America/Chicago] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/consor5/public_html/links/promotional/index.php on line 181
+[13-Jul-2016 15:10:45 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/consor5/public_html/links/promotional/index.php on line 183
+[13-Jul-2016 15:10:45 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/consor5/public_html/links/promotional/index.php on line 185
+[13-Jul-2016 15:10:45 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/consor5/public_html/links/promotional/index.php on line 192
+[15-Sep-2016 05:41:32 America/Chicago] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/tmp/mysql.sock' (111) in /home/consor5/public_html/links/promotional/index.php on line 181
+[15-Sep-2016 05:41:32 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/consor5/public_html/links/promotional/index.php on line 183
+[15-Sep-2016 05:41:32 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/consor5/public_html/links/promotional/index.php on line 185
+[15-Sep-2016 05:41:32 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/consor5/public_html/links/promotional/index.php on line 192
+[15-Sep-2016 05:41:32 America/Chicago] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/tmp/mysql.sock' (111) in /home/consor5/public_html/links/promotional/index.php on line 216
+[15-Sep-2016 05:41:32 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/consor5/public_html/links/promotional/index.php on line 218
+[15-Sep-2016 05:41:32 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/consor5/public_html/links/promotional/index.php on line 220
+[15-Sep-2016 05:41:32 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/consor5/public_html/links/promotional/index.php on line 227
+[15-Sep-2016 05:41:32 America/Chicago] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/tmp/mysql.sock' (111) in /home/consor5/public_html/links/promotional/index.php on line 255
+[15-Sep-2016 05:41:32 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/consor5/public_html/links/promotional/index.php on line 257
+[15-Sep-2016 05:41:32 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/consor5/public_html/links/promotional/index.php on line 259
+[15-Sep-2016 05:41:32 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/consor5/public_html/links/promotional/index.php on line 265

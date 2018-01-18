@@ -1,0 +1,17 @@
+Here is the information you entered at consortiuminfo.org:
+
+Your organization is: {{org}}
+
+Your site adress is {{url}}
+
+Your name is: {{yourname}}
+
+You email adress is {{email}}
+
+
+--------------------------------------
+click <a href="http://www.consortiuminfo.org">here</a> to visit the site.
+
+If you have any questions, please feel free to contact us at Consortiuminfo@lgu.com
+
+Thank You

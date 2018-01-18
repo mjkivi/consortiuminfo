@@ -1,0 +1,46 @@
+<div class="story">
+    <span class="story-icons">
+        {email_icon}
+        {print_icon}
+        {pdf_icon}
+        {edit_icon}
+    </span>
+    <h1>{story_title_link}</h1>
+    <div class="story-information">
+    	<p style="padding:6px 0px 12px 0px;">
+			<!-- AddThis Button BEGIN --> 
+			<div class="addthis_toolbox addthis_default_style addthis_32x32_style" addthis:url="{article_url}" addthis:title="{story_title}">
+			<a class="addthis_button_preferred_1"></a>
+			<a class="addthis_button_preferred_2"></a>
+			<a class="addthis_button_preferred_3"></a>
+			<a class="addthis_button_preferred_4"></a>
+			<a class="addthis_button_compact"></a>
+			<a class="addthis_counter addthis_bubble_style"></a>
+			</div>
+			<script type="text/javascript">
+				var addthis_config = {
+					data_track_addressbar: false
+				}
+			</script>
+			<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=updegrove"></script>
+			<!-- AddThis Button END -->
+			<div style="margin: 8px 0; overflow: visible;">
+				<!--<div class="fb-like" data-href="{article_url}" data-send="false" data-width="300" data-show-faces="false"></div>-->
+				<iframe src="//www.facebook.com/plugins/like.php?href={story_encoded_link}&amp;send=false&amp;layout=standard&amp;width=450&amp;show_faces=false&amp;font&amp;colorscheme=light&amp;action=like&amp;height=35" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:35px;" allowTransparency="true"></iframe>
+			</div>
+    	</p>
+        <p style="margin: 5px 0 0 0;">{story_date}</p>
+        <p>{lang_contributed_by} {start_contributedby_anchortag}{contributedby_author}{end_contributedby_anchortag}</p>
+        <p>{lang_views} {story_hits}</p>
+    </div>
+    <div class="story-body">
+        {story_anchortag_and_image}{story_text_no_br}
+    </div>
+    <div class="story-footer">
+        <p>{readmore_link}&nbsp;&nbsp;|&nbsp;&nbsp;{post_comment_link}&nbsp;&nbsp;|&nbsp;&nbsp;{comments_with_count}&nbsp;&nbsp;|&nbsp;&nbsp;{trackbacks_with_count}</p>
+        <p>{page_selector}{plugin_itemdisplay}</p>
+    </div>
+</div>
+<img src="/standardsblog/layout/redesign/images/sb_main_dots.gif" width="500" height="23" border="0" alt="" />
+<!-- <div class="block-divider"> </div> -->
+

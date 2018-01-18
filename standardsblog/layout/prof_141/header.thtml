@@ -1,0 +1,73 @@
+ <?php header ('Content-Type: text/html; charset={charset}'); ?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>{page_title}</title>
+<!-- link rel="SHORTCUT ICON" href="{site_url}/favicon.ico" -->
+<!--
+<meta http-equiv="Pragma" content="no-cache">
+-->
+<link rel="stylesheet" type="text/css" href="{css_url}" title="{theme}">
+{plg_headercode}
+
+<!-- rich textarea -->
+<?php if($HTTP_GET_VARS[type] == "story" || $HTTP_POST_VARS[type] == "story" || $HTTP_GET_VARS[mode] == "edit" || isset($HTTP_POST_VARS[mode])) {
+    echo '<script type="text/javascript" src="{layout_url}/rich-textarea/rich-textarea-53.js"></script>';
+} ?>
+
+<script type="text/javascript" src="{site_url}/fckeditor/fckeditor.js"></script>
+<!-- rich textarea -->
+<link rel="stylesheet" type="text/css" href="{css_url}" title="{theme}">
+{feed_url}
+{rel_links}
+{plg_headercode}
+{advanced_editor}
+<!-- Load Common Javascript Libraries -->
+<script type="text/javascript" src="{site_url}/javascript/common.js"></script>
+</head>
+<body>
+
+            <table width="100%" border="0" cellpadding="0" cellspacing="0" class="header-logobg-container-outer">
+                <tr>
+                    <td>
+                        <table width="100%" border="0" cellpadding="0" cellspacing="0" class="header-logobg-container-inner">
+                            <tr>
+                              <td align="center" valign="middle" bgcolor="#9CD7C6"><img src="http://consortiuminfo.org/standardsblog/layout/professional/images/grayline.png" width="100%" height="8" alt="line"></td>
+                            </tr>
+                            <tr>
+                                <td width="50%" height="120" align="center" valign="middle" bgcolor="#9CD7C6">&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.gesmer.com/practice_areas/consortium.php"><img src="/standardsblog/layout/prof_141/images/logo.gif" alt="{site_name}" border="0"></a></td>
+                            </tr>
+							<tr>
+							  <td align="center" bgcolor="#FFFFFF"><img src="http://consortiuminfo.org/glog/layout/professional/images/grayline.png" width="100%" height="8" alt="line"></td>
+						  </tr>
+							<tr>
+							<td align="center" bgcolor="#FFFFFF"> <div id="navcontainer">
+<ul id="navlist">
+<li><a href="/">&nbsp;<span class="style3">Home</span>&nbsp;</a></li>
+<li><a href="/aboutsite/">&nbsp;<span class="style3">&nbsp; About &nbsp;</span></a></li>
+<li><a href="/links/">&nbsp; <span class="style3">List</span> &nbsp;</a></li>
+<li><a href="/news/">&nbsp; <span class="style3">News</span> &nbsp;</a></li>
+<li><a href="/metalibrary/">&nbsp; <span class="style3">MetaLibrary</span> &nbsp;</a></li>
+<li><a href="/bulletins/">&nbsp;<span class="style3">Journal</span>&nbsp;</a></li>
+<li><a href="#">&nbsp;Blog</a>&nbsp;</li>
+<li><a href="/essentialguide/">&nbsp; <span class="style3">Guide</span> &nbsp;</a></li>
+<li><a href="/blog/">&nbsp;<span class="style3">Consider</span> <span class="style3">This</span>&nbsp;</a></li>
+<li><a href="/books/">&nbsp;<span class="style3">Bookstore</span> &nbsp;</a></li>
+<li><a href="/sitemap/">&nbsp;<span class="style3">Sitemap</span> &nbsp;</a></li>
+</ul></center>
+</div></td></tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+            <table border="0" cellspacing="0" cellpadding="0" width="100%">
+                <tr>
+                    {left_blocks}
+                    <td class="story-container" width="100%" valign="top">
+                    
+<table width="100%" border="0" cellspacing="1">
+  <tr>
+    <td><div align="left"><img src="http://consortiuminfo.org/newsblog/standardsblog_main_sm.jpg" alt="Andy Updegrove" width="220" height="130" align="left">There are over 1,000,000 supported standards, with more being developed all the time. The Standards Blog examines how standards are developed, and their impact on business, society, the world, and the future. This site is hosted by Gesmer Updegrove LLP, a technology law firm based in Boston, Massachusetts, USA. GU is an <a href='http://www.gesmer.com/practice_areas/consortium.php'>internationally recognized leader</a> in creating and representing the consortia that create and promote standards and open source software. The opinions expressed in the Standards Blog are those of <a href='http://www.gesmer.com/attorneys/updegrove.php'>Andy Updegrove</a> alone, and not necessarily those of GU.  Please see the Terms of Use and Privacy Policy for this site, which <a href='http://www.consortiuminfo.org/terms/'>appear here</a>.</div></td>
+  </tr>
+</table><hr>
+            <!-- START OF CONTENT AREA -->

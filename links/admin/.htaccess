@@ -1,0 +1,6 @@
+AuthType Basic
+AuthName "Restricted Area"
+require valid-user
+AuthUserFile "/home/consor5/.htpasswds/public_html/links/admin/passwd"
+
+Allow from env=!HTTPS

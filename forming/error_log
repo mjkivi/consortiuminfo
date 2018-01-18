@@ -1,0 +1,1 @@
+[31-Dec-2009 04:26:40] PHP Warning:  PHP Startup: mm_create(0, /tmp/session_mm_cgi510) failed, err mm:core: failed to open semaphore file (File exists) in Unknown on line 0

@@ -1,0 +1,111 @@
+p, li, td {
+  font-size: 12px;
+}
+
+/*/*/a{}
+body p, body li, body td {
+  font-size: x-small;
+  voice-family: "\"}\"";
+  voice-family: inherit;
+  font-size: small;
+}
+html>body p, html>body li, html>body td {
+  font-size: small;
+}
+/* */
+
+/* Global */
+.AllNavTitle { font-size: 11px; line-height: 12px; }
+.AllNavLink a:link, .AllNavLink a:visited { font-size: 12px; }
+legend { font-size: 12px; }
+.toolSetA p, .toolSetB p { font-size: 12px; }
+.toolSetA a:link, .toolSetA a:visited, .toolSetB a:link, .toolSetB a:visited { font-size: 12px; }
+/*blockquote { font-size: 80%; }*/
+blockquote { font-size: 13px; }
+/* Global */
+
+/* Homepage */
+.SideSponsorTxt1 { font-size: 12px; line-height: 13px; }
+.SideSponsorTxt2 { font-size: 12px; line-height: 16px; }
+.SideProServDirHead { font-size: 18px; line-height: 17px; }
+.MainHeader1 { font-size: 16px; }
+.MainHeader2 { font-size: 24px; }
+.MainBody1 { font-size: 13px; line-height: 16px; }
+.SiteTourHead { font-size: 18px; }
+.SiteTourBody { font-size: 11px; line-height: 14px; }
+.SectionAnchors { font-size: 12px; }
+.SectionHeader { font-size: 16px; }
+.JournalHeader { font-size: 14px; }
+.JournalHeader span { font-size: 12px; }
+.JournalSection { font-size: 12px; }
+.JournalTitle { font-size: 12px; }
+.JournalBody { font-size: 12px; line-height: 15px; }
+.BlogTitle { font-size: 16px; }
+.BlogBody { font-size: 12px; line-height: 16px; }
+.NewsHead { font-size: 12px; }
+.NewsBody { font-size: 12px; }
+.EssGuideHead { font-size: 12px; }
+.EssGuideBody { font-size: 12px; line-height: 18px; }
+/* Homepage */
+
+/* Journal */
+.JournalMain p, li, td { font-size: 13px; }
+/* Journal */
+
+/* Metalibrary */
+input { font-size: 11px; }
+select { font-size: 11px; }
+.metalist li, li.metalist { font-size: 12px; }
+.breadcrumbs { font-size: 12px; }
+.bodynav a:link, .bodynav a:visited { font-size: 12px; }
+.bodymain p { font-size: 12px; }
+.bodymain p.selectnew { font-size: 11px; }
+.bodymain p.sortoptions { font-size: 12px; }
+.bodymain p.prevnext { font-size: 12px; }
+.metalinksleft p { font-size: 12px; }
+.metalinksright p { font-size: 12px; }
+td.aright { font-size: 12px; }
+td.aleft { font-size: 12px; }
+td.rss1a { font-size: 12px; }
+td.rss1b { font-size: 12px; }
+/* Metalibrary */
+
+/* Essential Guide */
+.GuideHelpHead { font-size: 18px; }
+.GuideHelpBody1, .GuideHelpBody2 { font-size: 11px; line-height: 14px; }
+.GuideSectionHeader { font-size: 16px; }
+.GuideSectionTitle { font-size: 16px; }
+.GuideSectionBody { font-size: 12px; line-height: 16px; }
+/* Essential Guide */
+
+/* Table Archive */
+table.tableArchive th { font-size: 90%; }
+/* Table Archive */
+
+/* Consider This */
+.ConThisMain h6 { font-size: 14px; }
+.ConThisBlurbDate { font-size: 14px; }
+.ConThisBlurbTitle { font-size: 16px; }
+.ConThisBlurbBody { font-size: 13px; line-height: 16px; }
+.ConThisOpinion { font-size: 11px; line-height: 13px; }
+/* Consider This */
+
+/* News */
+.NewsMain h6 { font-size: 18px; }
+.NewsQuoteBlogHead { font-size: 20px; }
+.NewsBlogDate { font-size: 15px; }
+.NewsBlogEntryHead { font-size: 20px; }
+.NewsLatestHead { font-size: 20px; }
+.NewsExpandLinks p { font-size: 12px; }
+/* News */
+
+/* Links */
+.LinksMain h3 { font-size: 18px; }
+.LinksExpandLinks p { font-size: 12px; }
+/* Links */
+
+/* Osp */
+.OspHelpHead { font-size: 18px; }
+.OspHelpBody1, .OspHelpBody2 { font-size: 11px; line-height: 14px; }
+.OspSectionHeader { font-size: 16px; }
+/* Osp */

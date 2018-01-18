@@ -1,0 +1,633 @@
+/*
+
+UPDATED: 20070626
+UPDATED: 20070731
+
+COLORS FOR LINKS: #336699 (blue)
+COLORS FOR BACKGROUNDS: #cccccc (lt gray) #ffffff (white) #336699 (blue)
+COLORS FOR TEXT: #000000
+COLORS FOR HEADERS / SPECIAL TEXT: #006646 (green) #933100 (red)
+COLORS FOR CALLOUTS: #006646
+
+*/
+
+/* import stylesheets \*/
+@import url(masthead.css);
+/* end import/hide */
+
+/* MAIN ---------------------------------------------------------- */ 
+
+html, body {
+	margin: 0; 
+	padding: 0;
+}
+html {
+	
+	text-align: center;
+	/*
+	background: #ffffff url(../images/layout/body_bckgrnd.gif) top left repeat-x;
+	*/
+	background: #ffffff url(../images/layout/body_bckgrnd_alt.gif) top center repeat-y;
+}
+body { 
+	text-align: left; 
+	width: 762px; 
+	margin: 0 auto;	
+	font-family: Verdana, Helvetica, sans-serif;
+	color: #000000;
+	background: #ffffff;
+}
+
+/* SPECIAL ACCESS FONT SIZING ---------------------------------------------------------- */ 
+
+p, li, td {
+  font-size: 12px;
+}
+
+/*/*/a{}
+body p, body li, body td {
+  font-size: x-small;
+  voice-family: "\"}\"";
+  voice-family: inherit;
+  font-size: small;
+}
+html>body p, html>body li, html>body td {
+  font-size: small;
+}
+/* */
+
+/* HEADERS ---------------------------------------------------------- */ 
+
+h2, h3, h4{
+	font-family: Georgia, serif;
+	text-align: center;
+	font-weight: normal;
+}
+h2 {
+	font-size: 150%;/* 18px; */
+}
+h3 {
+	font-size: 130%;/* 16px; */
+}
+h4 {
+	font-size: 100%;/* 14px; */
+	text-transform: uppercase;
+	letter-spacing: .2em;
+	color: #006646;
+}
+h5, h6{
+	font-family: Georgia, serif;
+	text-align: left;
+	font-weight: normal;
+}
+h5 {
+	font-size: 100%;/* 12px; */
+}
+h6 {
+	font-size: 100%;/* 12px; */
+	color: #933100;
+}
+			
+/* LINKS ---------------------------------------------------------- */
+
+a {
+
+}
+a:link {
+	color: #000099;
+}
+a:visited {
+	color: #000099;
+}
+a:hover {
+	text-decoration: none;
+}
+a.archive {
+	padding-left: 20px;
+	background-image: url(../images/icons/icon_a_archive.gif);
+	background-repeat: no-repeat;
+	background-position: 0 0;
+}
+a.subscribe {
+	padding-left: 20px;
+	background-image: url(../images/icons/icon_a_subscribe.gif);
+	background-repeat: no-repeat;
+	background-position: 0 0;
+}
+a.buybooks {
+	padding-left: 20px;
+	background-image: url(../images/icons/icon_a_buybooks.gif);
+	background-repeat: no-repeat;
+	background-position: 0 0;
+}
+a.email {
+	padding-left: 20px;
+	background-image: url(../images/icons/icon_a_email.gif);
+	background-repeat: no-repeat;
+	background-position: 0 0;
+}
+a.fontsm {
+	padding-left: 20px;
+	background-image: url(../images/icons/icon_a_font_small.gif);
+	background-repeat: no-repeat;
+	background-position: 0 0;
+}
+a.fontlg {
+	padding-left: 20px;
+	background-image: url(../images/icons/icon_a_font_large.gif);
+	background-repeat: no-repeat;
+	background-position: 0 0;
+}
+a.pdf {
+	padding-left: 20px;
+	background-image: url(../images/icons/icon_a_pdf.gif);
+	background-repeat: no-repeat;
+	background-position: 0 0;
+}
+a.rss {
+	padding-left: 20px;
+	background-image: url(../images/icons/icon_a_rss.gif);
+	background-repeat: no-repeat;
+	background-position: 0 0;
+}
+
+/* LAYOUT ---------------------------------------------------------- */
+
+#bulletin {
+
+}
+
+/* ------------- */
+
+#masthead {
+	margin: 0;
+	padding: 0;
+	height: 150px;
+	overflow: hidden;
+	background: #ffffff url(../navigation/header_bckgrnd.gif) top left no-repeat;
+}
+#mainbody {
+	margin: 0;
+	padding: 0;
+}
+#content {
+	margin: 0; 
+	padding: 5px 100px;
+	clear: both;
+	background: #ffffff;
+}
+#contentFill {
+	margin: 0; 
+	padding: 5px 50px;
+	clear: both;
+	background: #ffffff;
+}
+#wrapTwoCol{
+	margin: 0;
+	padding: 20px 0 0 0;
+	clear: both;
+	width: 762px;
+}
+#contentTwoCol{
+	float: left;
+	margin: 0; 
+	padding: 5px 5px 5px 20px;
+	width: 480px;
+	background: #ffffff;
+	border-right: #eeeeee 1px solid;
+}
+#sidebarTwoCol {
+	float: right;
+	margin: 0; 
+	padding: 5px 20px 5px 5px;
+	width: 200px;
+	background: #ffffff;
+}
+#footer {
+	margin: 0; 
+	padding: 20px 50px;
+	clear: both;
+	font-family: Georgia, serif;
+	text-align: center;
+	color: #999999;
+	border-top: #eeeeee 1px solid;
+}
+.clear {
+	clear: both;
+}
+.search {
+	margin: 0;
+	padding: 0;
+}
+.gutter {
+
+}
+
+/* ACCESSIBILITY ---------------------------------------------------------- */ 
+
+#accessibility {
+	position: absolute;
+	margin: 0;
+	padding: 10px;
+	top: 0;
+	left: 0;
+	border: #003366 4px solid;
+	background: #ffffff;
+	visibility: hidden;
+}
+#texttools {
+	float: right;
+	width: 180px;
+	margin: 5px 0 5px 5px;
+	padding: 5px 10px;
+	font-size: 60%;
+	border: #eae7e2 4px solid;
+	background: #ffffff;
+}
+.hidden {
+	visibility: hidden;
+}
+
+/* BANNER ---------------------------------------------------------- */
+
+#banner {
+	clear: both;
+	margin: 5px 0; /* 5px 20px */
+	padding: 10px;
+	background: #eae7e2 url(../images/layout/banner_bckgrnd.gif) top left repeat-x;
+}
+#banner p{
+	margin: 0px;
+	padding: 0px;
+	color: #666666;
+}
+#banner a{
+	margin: 0px;
+	padding: 0px;
+	color: #666666;
+}
+
+/* ------------- */
+
+#bannerlower {
+	clear: both;
+	margin: 5px 0; /* 5px 20px */
+	padding: 10px;
+	background-color: #eae7e2;
+}
+#bannerlower p{
+	margin: 0px;
+	padding: 0px;
+	color: #666666;
+}
+#bannerlower a{
+	margin: 0px;
+	padding: 0px;
+	color: #666666;
+}
+
+/* CONTENT ---------------------------------------------------------- */
+
+#tableofcontents {
+}
+
+#tableofcontents .part{
+	font-family: Georgia, serif;
+	font-size: 130%;/* 16px; */
+	font-weight: normal;
+	text-transform: uppercase;
+}
+#tableofcontents .section{
+	font-family: Georgia, serif;
+	font-weight: normal;
+	font-size: 120%;/* 14px; */
+	text-transform: uppercase;
+	letter-spacing: .2em;
+	color: #006646;
+}
+#tableofcontents .subsection{
+	font-family: Georgia, serif;
+	font-weight: normal;
+	font-size: 120%;/* 14px; */
+	text-transform: uppercase;
+	color: #006646;
+}
+#tableofcontents .title{
+	font-family: Georgia, serif;
+	font-size: 140%;
+	text-align: left;
+	font-weight: normal;
+}
+#tableofcontents .subtitle{
+	font-family: Georgia, serif;
+	font-size: 120%;
+	text-align: left;
+	font-weight: normal;
+}
+#tableofcontents .volume{
+	font-family: Georgia, serif;
+	font-size: 140%;
+	text-align: left;
+	font-weight: normal;
+	/* ----- */
+	padding-left: 13px;
+	background-image: url(../images/icons/icon_volume.gif);
+	background-position: 0 0;
+	background-repeat: no-repeat;
+}
+.selection .subsection{
+	font-family: Georgia, serif;
+	font-weight: normal;
+	font-size: 110%;/* 14px; */
+	text-transform: uppercase;
+	letter-spacing: .2em;
+	color: #006646;
+} 
+.selection .subtitle{
+	font-family: Georgia, serif;
+	font-weight: normal;
+	font-size: 120%;
+	text-align: left;
+	font-weight: normal;
+}
+.caps {
+	text-transform: uppercase;
+}
+.capSpace {
+	text-transform: uppercase;
+	letter-spacing: .4em;
+}
+.space {
+	letter-spacing: .4em;
+}
+#archive {
+	font-family: Georgia, serif;
+	font-weight: normal;
+}
+ul {
+	margin-left: 0;
+	padding-left: 0;
+}
+li {
+	list-style: none;
+	padding-left: 13px;
+	background-image: url(../images/icons/icon_li_list.gif);
+	background-position: 0 0;
+	background-repeat: no-repeat;
+}
+
+ul.indent1 {
+	margin-left: 25px;
+	padding-left: 0;
+}
+
+ul.indent2 {
+	margin-left: 50px;
+	padding-left: 0;
+}
+
+/* TOOL SET ---------------------------------------------------------- */ 
+
+fieldset {
+	padding: 0 10px 5px 10px;
+	border: #eae7e2 4px solid;
+}
+fieldset a{
+	font-size: 90%;
+}
+legend {
+	color: #666666;
+	font-size: 80%;
+}
+.toolSetA {
+	float: left;
+}
+.toolSetA p{
+	/* font-size: 105%; */
+	margin-top: 7px;
+	margin-bottom: 7px;
+}
+.toolSetB {
+	float: right;
+}
+.toolSetB p {
+	margin-top: 7px;
+	margin-bottom: 7px;
+}
+
+/* -------------------------------------- */
+
+table p{
+	margin: 0px;
+	padding: 0px;
+}
+blockquote {
+	/*
+	font-family: Georgia, serif;
+	*/
+	/*font-size: 80%;*/
+	font-size: 13px;
+}
+.openingquote {
+	margin: 0;
+	padding: 20px 40px;
+}
+.calloutright {
+	float: right;
+	margin: 10px 0 10px 10px;
+	padding: 2px 8px;
+	width: 200px; 
+	font-family: Georgia, serif;
+	font-size: 130%;
+	line-height: 1.2em;
+	font-style: italic;
+	border-left: 1px solid #cccccc;
+}
+.calloutleft {
+	float: left;
+	margin: 10px 10px 10px 0;
+	padding: 5px 10px;
+	width: 200px; 
+	font-family: Georgia, serif;
+	font-size: 130%;
+	line-height: 1.2em;
+	font-style: italic;
+	border-right: 1px solid #cccccc;
+}
+.volumeinfo {
+	font-size: 60%;
+}
+.views {
+	color: #000000;
+}
+.credit {
+	margin: 0;
+	padding-left: 330px;
+}
+.note {
+	margin: 0;
+	padding: 10px 50px;
+	font-style: italic;
+}
+.red {
+	color: #933100;
+}
+.green {
+	color: #006646;
+}
+.left {
+	float: left;
+}
+.right {
+	float: right;
+}
+.center {
+	text-align: center;
+}
+.smaller {
+	font-size: 80%;
+}
+.larger {
+	font-size: 110%;
+}
+.returntotop {
+	font-size: 80%;
+	padding-left: 20px;
+	background-image: url(../images/icons/icon_a_top.gif);
+	background-repeat: no-repeat;
+	background-position: 0 0;
+}
+
+/* RULES ---------------------------------------------------------- */
+
+
+div.hr {display: none}
+/*/*/a{}
+div.hr {
+  display: block;
+  height: 25px;
+  background-image: url(../images/layout/hr_rule.gif);
+  background-repeat: no-repeat;
+  background-position: center center;
+  margin: 1em 0 1em 0;
+}
+hr {display:none}
+/* */
+
+
+/* IMAGES ---------------------------------------------------------- */
+
+.imgleft {
+	float: left;
+	margin: 10px 10px 10px 0;
+}
+.imgright {
+	float: right;
+	margin: 10px 0 10px 10px;
+}
+
+/* TABLES ---------------------------------------------------------- */
+			
+table.tableArchive {
+
+}
+table.tableArchive caption {
+	text-align: left;
+	color: #933100;
+}
+table.tableArchive th{
+	font-size: 90%;
+	font-weight: normal;
+	color: #999999;
+	text-align: left;
+}
+table.tableData th, table.tableData td {
+	vertical-align: top;
+	padding: 0 5px 5px 0;
+}
+
+/* ---- */
+
+table.tableData {
+
+}
+table.tableData caption {
+	text-align: left;
+	color: #933100;
+}
+table.tableData th{
+	font-size: 80%;
+	font-weight: normal;
+	color: #999999;
+	text-align: left;
+	border-bottom: #cccccc 1px solid;
+}
+table.tableData th, table.tableData td {
+	vertical-align: top;
+	padding: 0 5px 5px 0;
+}
+
+/* SPECIAL CASE ---------------------------------------------------------- */
+
+#specialribbon {
+	margin: 0;
+	padding: 0;
+	height: 150px;
+	width: 150px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	background-image: url(../images/special/masthead_specialbanner_50.gif);
+  	background-repeat: no-repeat;
+  	background-position: top left;
+}
+.testSpacingh3 {
+	letter-spacing: 6px;
+	line-height: 1.6em;
+}
+
+/* SIDEBAR ---------------------------------------------------------- */
+
+.AllSidebar {
+	width: 154px;
+	margin: 0px;
+	padding: 0px;
+	float: left;
+}
+
+.AllNav {
+	width: 146px;
+	padding: 0px 0px 6px 0px;
+	margin: 15px 0px 0px 0px;
+	border: #eae7e2 4px solid;
+	float: left;
+}
+
+.AllNavTitle { 
+	font-family: verdana,arial,sans-serif;
+	font-size: 11px;
+	line-height: 12px;
+	font-weight: bold;
+	color: #001c9d;
+	text-align: left;
+	padding: 5px 5px 0px 6px;
+	margin: 0px;
+}
+
+.AllNavLink { 
+	font-family: verdana,arial,sans-serif;
+	font-size: 12px;
+	line-height: 15px;
+	color: #001c9d;
+	text-align: left;
+	padding: 5px 5px 0px 6px;
+	text-indent: -11px;
+	margin: 0px 0px 0px 10px;
+}
+
+.AllNavLink a:link, .AllNavLink a:visited { 
+	color: #001c9d;
+	text-decoration: underline;
+}
+
+.AllNavLink a:hover { text-decoration: none; }

@@ -1,0 +1,36 @@
+
+			<!-- End Content Area -->
+            </td>
+            <td style="width:20px;">
+				<div style="background:transparent; width:20px; height:1px;"></div>
+			</td>
+			<td class="block-outerborder-left" style="width:1px;">
+				<div style="background:transparent; width:1px; height:1px;"></div>
+			</td>
+			<td style="width:10px;">
+				<div style="background:transparent; width:10px; height:1px;"></div>
+			</td>
+			{right_blocks}
+        </tr>
+    </table>
+    {centerblockfooter-span}
+    <table cellspacing="0" cellpadding="0" style="width:940px;" align="center">
+        <tr>
+            <td>
+            	<div id="footer">
+					<p><a href="/terms/" title="ConsortiumInfo.org Terms of Use">Terms of Use</a> | <a href="http://www.gesmer.com/" title="Gesmer Updegrove LLP web site">Gesmer Updegrove LLP</a> | <a href="/search/" title="Search ConsortiumInfo.org">Search</a> | <a href="/contact/" title="Contact ConsortiumInfo.org">Contact</a> | <a href="/faq/" title="Frequently Asked Questions">FAQ</a> | <a href="/sitemap/" title="ConsortiumInfo.org Sitemap">Sitemap</a><br />(617) 350-6800 | Email: <script language="javascript" type="text/javascript">AuGesAdd();</script><br /> &copy;2003 - 2012 All Rights Reserved</p>
+				</div>
+			</td>
+        </tr>
+    </table>
+    <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-13076471-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>

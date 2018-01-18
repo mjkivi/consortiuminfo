@@ -1,0 +1,599 @@
+3D PDF Consortium
+Develops and promotes the adoption of 3D PDF as an open standard of engineering data
+http://www.3dpdfconsortium.org/
+ 
+88open Consortium Ltd.
+Hardware and Software Vendor Consortium Setting Standards and Conducting Motorola 88000 RISC Chip Compliance Certification
+ 
+Advanced Media Workflow Association, Inc.
+Develops and Promotes File Interchange Formats, including the Advanced Authoring Format
+http://www.aafassociation.org
+ 
+Aerospace Standards Users Group (ASUG)
+Identifies cost effective methods for the acquisition and distribution of aerospace and defense standards
+ 
+Alliance for Sustainable Air Transportation (ASAT)
+Public-private initiative supporting implementtaion of the "NextGen" air traffic control system
+ 
+AllSeen Alliance
+Develops and promotes the AllJoyn "Internet of Things" interoperable software platform
+https://allseenalliance.org/
+ 
+American National Standards Institute (ANSI)
+Accredits US SDOs and represents US in various global standards bodies
+http://www.ansi.org/
+ 
+AMERIPEN
+Promotes and influences environmental packaging issues related to legislation and regulation
+http://www.ameripen.org
+ 
+Anti-Malware Testing Standards Consortium
+Promotes development and improvement in the objectivity, quality and relevance of anti-malware testing methodologies
+http://amtso.org/
+ 
+Application Service Provider Industry Consortium, Inc. (ASPIC)
+Promotes and supports the ASP industry
+ 
+Association for Cooperative Operations Research and Development (ACORD)
+Develops IT standards for the insurance industry
+http://www.acord.org/home/home.aspx
+ 
+ATM Local Telephony Alliance, Inc. (ALTA)
+Promotes interoperability of Hardware and Software through the use of Asynchronous Transfer Mode Standards
+ 
+Augmented Reality for Enterprise Alliance
+The Augmented Reality for Enterprise Alliance (AREA) is the only global non-profit, member-based organization dedicated to widespread adoption of interoperable AR-enabled enterprise systems.
+http://thearea.org/
+ 
+Automation Standards Compliance Institute
+Supports compliance assessment programs relating to ISA automation-related standards
+http://www.isa.org/Content/NavigationMenu/Technical_Information/ASCI/ASCI.htm
+ 
+AXle Consortium
+Develops and promostes test equipment standards for the telecom industry
+http://www.axiestandard.org/
+ 
+BroadBand Forum
+Develops multi-service broadband packet networking specifications for customer, access and backbone networks
+http://www.broadband-forum.org/
+ 
+CADFramework Initiative
+Major Company Consortium to Create Standardized CAD Tools
+ 
+Car Connectivity Consortium
+Develops and promotes open and common solutions enabling Smartphones and in-vehicle infotainment systems can interoperate
+http://www.terminalmode.org/en/agenda/consortium/
+ 
+Cloud Foundry
+Backed by some of the heaviest heavyweights in business, Cloud Foundry gives companies the speed, simplicity and control they need to succeed in a cloud-first world.
+https://www.cloudfoundry.org/
+ 
+Cloud Native Computing
+Develops and promotes open source software for modern distributed environments
+https://www.cncf.io/
+ 
+Coalition for Healthcare eStandards Inc. (CHeS)
+Adopts and promotes uniform industry data standards for health care supply chain transactions over the Internet
+http://www.chestandards.org
+ 
+Collaborative Electronic Notebook Systems Association (CENSA)
+Promotes Electronic Recordkeeping systems standards
+http://www.censa.org/
+ 
+Connected Media Experience, Inc.
+Develops and promotes technical standards for enhanced digital media packages
+http://www.connectedmediaexperience.com/index.html
+ 
+Consortium Advancing Standards in Research Administration Information(CASRAI)
+Maintains and promotes interoperability of research information
+http://casrai.org/
+ 
+CommonWell Health Alliance
+Promotes and certifies compliance with interoperability standards enablingpatient data identification
+http://www.commonwellalliance.org/
+ 
+Computer & Communications Industry Association
+Advocacy association promting open markets, open systems, open networks and open competition
+http://www.ccianet.org/
+ 
+Computer Graphics Metafile Open (CGM Open)
+International organization of vendors and users dedicated to open and interoperable standards for the exchange of graphical information
+http://www.cgmopen.org/
+ 
+Core Infrastructure Initiative (CII)
+The Core Infrastructure Initiative (CII) is a project of the Linux Foundation to fund and support free and open-source software projects that are critical to the functioning of the Internet and other major information systems.
+https://www.coreinfrastructure.org/
+ 
+Council on Reliability in Results Reporting
+Develops and maintains standards to ensure accurate reporting by educational institutions of job placement success
+https://www.cirr.org/
+ 
+Customer Experience Professionals Association (CXPA)
+Promotes the advancement of customer experience management practices
+http://www.cxpa.org/
+ 
+Cyber Security Industry Alliance (CSIA)
+Hardware, software and service provider advocacy group formed to enhance Cyber security
+(Merged with Information Technology Association of America (ITAA) in 2008)
+http://itaa.org/
+ 
+Domain Name Association (DNA)
+Promotes the use, adoption, and expansion of domain names
+http://www.thedna.org/
+ 
+Digital Imaging Group (DIG)
+Creates Digital Imaging Standards, Beginning with the "FlashPix" Standard
+(Merged with International Imaging Industry Association (i3A))
+http://www.i3a.org/
+ 
+Dronecode
+The Dronecode Project is an open source, collaborative project that brings together existing and future open source drone projects under a nonprofit structure governed by The Linux Foundation.
+https://www.dronecode.org/
+ 
+Electronic Business using eXtensible Markup Language (ebXML)
+Provides an open XML-based infrastructure enabling the global use of electronic business information in an interoperable, secure and consistent manner by all parties
+http://www.ebxml.org/
+ 
+Fast Data Input/Output Project
+Develops and promotes open source IO software for network and storage systems
+http://fd.io.org
+ 
+Fitness Industry Technology Council
+Develops and promotes data exchange standards for fitness equipment and mobile devices
+http://www.fit-c.org/
+ 
+Forum of Incident Response and Security Teams (FIRST)
+Develops security incident response teams for government, commercial, and educational organizations
+http://www.first.org/
+ 
+FOSSBazaar
+Open source community working to accelerate adoption of free and open source software in the enterprise
+https://fossbazaar.org/
+ 
+Free Standards Group
+Develops and maintains the Linux Standards Base (LSB)
+(Merged into the Linux Foundation 2007)
+http://www.freestandards.org/en/Main_Page
+ 
+Gaming Standards Association (GSA)
+Develops and promotes standards for the gaming industry
+http://www.gamingstandards.com/
+ 
+Global Industry-Interagency Group on eRecords (GIIG)
+Promotes cooperation between Government and Private Industry to set Electronic Records standards
+ 
+GlobalPlatform, Inc.
+Creates and Promotes Infrastructure Standards to enable Multiple Application SmartCards
+http://www.globalplatform.org/
+ 
+Global Organization for Multi-Vendor Integration Protocol (GO-MVIP)
+Promotes, maintains, and enhances the MVIP standard for the field of computer telephony
+http://www.dialogic.com/
+ 
+GreenTouch Consortium
+Develops technology to dramatically reduce the carbon footprint of ICT devices, platforms and networks
+http://www.greentouch.org/
+ 
+Health Level 7 (HL7)
+Develops healthcare standards
+http://www.hl7.org/
+ 
+Health Product Declaration Collaborative
+Maintains and promotes the building product and content Health Product Declaration Open Standard reporting language format
+http://www.hpdcollaborative.org/
+ 
+High Definition Audio-Video Network (HANA) Alliance
+Develops standards to enable interoperability of high-definition home entertainment products and services
+http://www.hanaalliance.org/
+ 
+Heterogeneous System Architecture (HSA) Foundation
+Develops HSA-enabled platform and software solutions for the market
+http://hsafoundation.com/
+ 
+Hyperledger Project
+Promotes blockchain technology by identifying and addressing features for a cross-industry open standard for distributed ledgers
+https://www.hyperledger.org/
+ 
+ID Federation
+Develops technical standards which eliminate the need for IDs and passwords while increasing security
+http://idfederation.com/
+ 
+IMS Global Learning Consortium, Inc.
+Creates standards to enable Distance Learning
+http://www.imsproject.org/
+ 
+Independent Distributors of Electronics Association (IDEA)
+Promotes best practices among independent distributors of electronics, certifies products, and sets standards
+http://www.idofea.org
+ 
+Industry Consortium for the Advancement of Security on the Internet (ICASI)
+Trusted forum for addressing international, multi-product security challenges
+http://www.icasi.org/
+ 
+Information Card Foundation
+Promotes and develops information card identity standards
+http://www.informationcard.net/
+ 
+Interactive Multimedia Association (IMA)
+International Consortium to Foster Multimedia Standards
+ 
+International Communications Association (ICA)
+Largest and Most Influential End Users Organization of Telephony, Information and Data Network Professionals in the World
+http://www.icahdq.org
+ 
+International OpenGen Alliance
+Develops genealogy standards for data frameworks, exchange and sharing
+http://www.opengenalliance.org/about
+ 
+International Imaging Industry Association (i3A)
+Largest imaging industry worldwide; sets open standards and promotes imaging industry
+http://www.i3a.org
+ 
+International WELL Building Institute
+Develops and maintains health and wellness standards for buildings
+https://www.wellcertified.com//
+ 
+Interoperability Consortium, Inc.
+Creates standards and test suites for SmartCard applications
+ 
+IVI Foundation (Interchangeable Virtual Instruments)
+Organization of end-users, system suppliers, integrators, and instrument and software vendors dedicated to defining software standards for instrument interchangeability
+http://www.ivifoundation.org/
+ 
+J Consortium, Inc.
+Provides an open forum for setting Real Time Java standards
+http://www.j-consortium.com/
+ 
+JS Foundation
+Supports the development of open source JavaScript software and theJavaScript ecosytem
+https://js.foundation/
+ 
+Learning Content Management System (LCMS) Council
+Promotes market awareness of LCMS infrastructures
+http://www.lcmscouncil.org/
+ 
+Kernel.org
+The Linux Kernel Organization is a California Public Benefit Corporation established in 2002 to distribute the Linux kernel and other Open Source software to the public without charge.
+http://www.kernel.org/
+ 
+Linux Foundation
+Develops and promotes the growth of Linux
+http://www.linuxfoundation.org/
+ 
+LXI Consortium, Inc.
+Creates LAN-based, modular platform standards for automated test systems
+http://www.lxistandard.org/
+ 
+MariaDB Foundation
+Promotes, protects, and advances the MariaDB codebase, community, andecosystem
+https://mariadb.org/foundation/
+ 
+MBGASE-T Alliance
+The MGBASE-T Alliance is an open organization to all third parties who wish to participate as members to enable the transmission of Ethernet frames at 2.5 or 5 Gigabit per second (Gbps) over twisted pair cables and to promote the standardization and improvement of the interfaces for applicable products.
+http://www.mgbasetalliance.org/
+ 
+Mass Technology Leadership Council
+Predominant Massachusetts Trade Association for the Software Industry
+http://www.masstlc.org/
+ 
+Medical Alert Monitoring Association (MAMA)
+Develops and promotes standards for the medical alert monitoring and personal emergency response services industry
+http://www.medicalalertmonitoringassociation.com/
+ 
+Messaging Anti-Abuse Working Group (MAAWG)
+Supports and promotes the messaging industry
+http://www.maawg.com/home/
+ 
+MIDI Manufacturers Association
+Music Industry Association Responsible for Setting Music Interface Standards
+http://www.midi.org/
+ 
+MIPS Consortium
+MIPS RISC Chip Consortium
+ 
+MobileBench Consortium
+Develops benchmarking services for smartphones and tablets
+http://mobilebenchconsortium.org/
+ 
+Mobile Enterprise Alliance (MEA)
+Promotes the benefits of workforce mobility
+ 
+Mobile Imaging and Printing Consortium (MIPC)
+Creates guidelines to enable printing from cellphones and other mobile devices
+http://www.mobileprinting.org/home
+ 
+Mobile Payment Forum
+Global, cross-industry organization developing a framework for standardized, secure, and authenticated mobile commerce using payment card accounts
+http://www.mpf.org.in/
+ 
+National Industrial Infrastructure Protocols (NIIIP) Consortium
+Developed standards for multi-vendor government contract fulfillment and other purposes
+ 
+National Information Standards Organization (NISO)
+Develops and promotes standards to manage information in digital environments
+http://www.niso.org/
+ 
+Near Field Communication Forum (NFC Forum)
+Promotes near field wireless communication technology
+http://www.nfc-forum.org/
+ 
+Network Centric Operations Industry Consortium, Inc.
+Enables a US/Allies network centric environment for Defense and Homeland Security purposes
+http://www.ncoic.org
+ 
+New Productivity Initiative, Inc. (NPI)
+Creates API specifications for Distributed Resource Management
+ 
+Node.js
+Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient.
+https://nodejs.org
+ 
+NORDAX
+Northeastern US and Canadian Utility Consortium sharing Demand Side Power Usage Information
+ 
+Object Management Group (OMG)
+Largest Software Consortium Worldwide; Sets Object Oriented Programming Standards
+http://www.omg.org/
+ 
+OLAP Council Ltd. (OLAP)
+Develops on-line analytical processing standards
+http://www.olapcouncil.org/
+ 
+Open Axis Group
+Promotes XML as the optimal electronic messaging structure for airline system connectivity
+http://www.openaxisgroup.org/
+ 
+Open Buying on the Internet Consortium (OBI)
+Develops technical and business standards enabling purchasing via the Internet
+ 
+OpenCAPI
+Develops and maintains the OpenCAPI high performance bus interface specification and ecosystem
+http://opencapi.org/
+ 
+OpenDaylight Project
+Develops and maintains the OpenDaylight open source Software-Defined Networking Framework
+http://www.opendaylight.org/
+ 
+Open Container Initiative
+The Open Container Initiative is a lightweight, open governance structure, to be formed under the auspices of the Linux Foundation, for the express purpose of creating open industry standards around container formats and runtime.
+http://www.opencontainers.org/
+ 
+Open Data Platform Initiative - ODpi
+Promotes the state of Apache Hadoop and Big Data technologies for enterprise
+http://www.odpi.org/
+ 
+OpenDOF Project
+The OpenDOF (Open Distributed Object Framework) Project is a secure, flexible, and interoperable open-source software framework enabling the development of scalable and reliable network services based on connected objects.
+http://opendof.org/
+ 
+Open FOG Consortium
+
+http://www.openfogconsortium.org/
+ 
+Open Gaming Alliance
+The Open Gaming Alliance (OGA) is a non-profit trade association focused on the business of the games industry. - See more at: https://opengamingalliance.org/#sthash.pQ2Fx6sg.dpuf
+https://opengamingalliance.org/
+ 
+Open Geospatial Consortium
+Develops geoscience standards for the National Information Infrastructure
+http://www.opengis.org/
+ 
+OpenBEL Consortium
+Maintains the OpenBEL Biological Expression Language
+http://www.openbel.org/
+ 
+OpenID Foundation
+Develops standards for on-line identity management
+http://openid.net/
+ 
+OpenMaMa
+Develops and supports the Open Middleware Agnostic Messaging API
+http://www.openmama.org/
+ 
+OpenNTF
+Supports the development of open source software
+http://openntf.org/main.nsf/
+ 
+Open Planning Project
+Develops standards for on-line identity management
+http://openid.net/
+ 
+Open Project for NFV (OPNFV)
+OPNFV is a new open source project focused on accelerating NFV's evolution through an integrated, open platform. https://www.opnfv.org//
+ 
+OpenSAF Foundation
+Maintains the open source OpenSAF high availability operating environment
+http://www.opensaf.org/
+ 
+Open Standards for Real Estate (OSCRE)
+Develops and maintains global standards for commercial real estate management
+http://web.pisces.co.uk/oscrex/default3.aspx
+ 
+Organization for the Advancement of Structured Information Standards (OASIS)
+Creates Interoperable Industry Specifications Based on Public Standards such as XML and SGML
+http://www.oasis-open.org/
+ 
+OuterCurve Foundation
+Promotes the exchange of code and understanding among software companies and open source communities
+http://www.outercurve.org/
+ 
+PCI Security Standards Council, LLC
+Maintains a global financial data protection system
+https://www.pcisecuritystandards.org/
+ 
+Personalization Consortium, Inc. (PCI)
+Promotes Best Practices relating to the use of Personal Information on the Internet
+ 
+PICMG-PCI Industrial Computer Manufacturers Group, Inc.
+Develops system-architecture neutral PCI microcomputer standards
+http://www.picmg.com/
+ 
+Picture Services Network (PSN)
+Operates the PSN Directory of digital imaging service providers
+ 
+PISCES Limited
+Operates the PSN Directory of digital imaging service providers
+http://www.oscre.org/
+ 
+Pistoia Alliance
+Develops and maintains the Pistoia pharmaceutical drug discovery workflow specification
+http://www.pistoiaalliance.org/
+ 
+PowerOpen Association
+IBM/Apple/Motorola PowerPC RISC Chip Consortium
+ 
+Public-Key Infrastructure (PKI) Forum
+Alliance to Accelerate the Adoption and Use of Public Key Infrastructure and PKI-based Products and Services
+ 
+PXI Systems Alliance
+Maintains the PXI Specification, which permits Application of PC Technology to Measurement and Automation
+http://www.pxisa.org/
+ 
+R Consortium
+The R Consortium is a group of organizations supporting the R ecosystem.
+https://www.r-consortium.org/
+ 
+RapidIO Trade Association
+Develops and maintains the RapidIO Interconnect Architecture
+http://www.rapidio.org/home
+ 
+Real Estate Standards Institute (RESI)
+Develops and certifies compliance with quality standards for real estate brokerages
+ 
+Readium Foundation
+Develops tehnology to accelerate adoption of EPUB 3 and the Open Web Platform by the global digital publishing industry
+http://readium.org/
+ 
+RF Energy Alliance
+The RF Energy Alliance is a non-profit technical association comprised of companies dedicated to realizing solid-state RF energy’s true potential as a clean, highly efficient and controllable heat and power source.
+http://rfenergy.org/
+ 
+Salutation Consortium
+Promotes interoperability standards among devices, applications and services across paper management, telephony and computing domains
+ 
+SDR Forum (Software Defined Radio Forum)
+Supports the development, deployment and use of open architectures for advanced wireless systems
+http://www.sdrforum.org/
+ 
+Search Engine Marketing Professionals Organization (SEMPO)
+Supports and promotes the search engine marketing industry
+http://www.sempo.org/home
+ 
+Semiconductor Test Consortium
+Creates and promotes interoperability test methods for complex logic devices
+http://www.semitest.org/home
+ 
+Simulation Interoperability Standards Organization (SISO)
+Facilitates simulation interoperability and component reuse in government and private sector applications
+http://www.sisostds.org/
+ 
+Smart Active Labels Consortium (SAL-C)
+Develops and promotes smart active label technologies for multiple industries
+ 
+Smart Card Alliance
+Promotes the widespread acceptance of multiple application smart card technology
+http://sgip.org/
+ 
+SmartGrid Interoperability Panel
+he Smart Grid Interoperability Panel (SGIP) is a nonprofit organization uniting key public and private stakeholders to address key interoperable issues
+http://www.smartcardalliance.org/
+ 
+Society of Motion Picture and Television Engineers (SMPTE)
+Develops and promotes motion picture standards
+https://www.smpte.org/
+ 
+Storage Networking Industry Association (SNIA)
+Develops and promotes smart active label technologies for multiple industries
+http://www.snia.org/
+ 
+Strategic Sourcing Advisory Council (SSAC)
+Provides information regarding strategic sourcing standards, certification and knowledge-sharing
+ 
+Telematics Suppliers Consortium, Inc.
+Sets "End to End" standards permitting wireless and data communication with automotive based systems and devices
+ 
+The Linux Foundation
+Supports, protects and sets standards for the Linux ecosystem
+http://www.linux-foundation.org/en/Main_Page
+ 
+Tizen.org
+Open source project developing the Linux-based Tizen mobile operating system for all types of mobile platforms and devices
+http://tizen.org/
+ 
+Transaction Processing Consortium
+Sets Transaction Processing Standards
+ 
+TranSMART Foundation
+Develops and maintains the open source tranSMART knowledge management platform for biomedicl research
+http://www.transmartfoundation.org/site/home
+ 
+UHD Alliance
+The UHD Alliance is a global coalition of leading film studios, TV brands, content distributors, postproduction and technology companies that aim to create a unified criterion for premium UHD platforms.
+http://www.uhdalliance.org/
+ 
+UNIFORUM
+11,000 member UNIX end-user focused consortium which also sponsors the Uniforum tradeshow
+ 
+UnitedLinux
+Creates a Standards-based Version of Linux intended for Business Users
+ 
+Universal Description, Discovery and Integration Project (UDDI)
+Creates a platform-independent, open framework for describing services, discovering businesses, and integrating business services using the Internet
+http://www.uddi.org/
+ 
+VFEA International Trade Association (VITA)
+VMEBus Standard Setting and Trade Association
+http://www.vita.com/
+ 
+Video Electronics Standards Association (VESA)
+Promotes and develops timely, relevant, open display and display interface standards
+http://www.vesa.org/
+ 
+Virtual Socket Interface (VSI) Alliance
+Develops standards and business processes for System-on-Chip (SoC) development
+http://www.vsi.org/
+ 
+VXIbus Consortium
+Maintains VXIbus Standard
+http://www.vxibus.org/
+ 
+WAVE2M Community
+Develops and promotes the Wavenis ultra-low power/long range wireless standard
+http://www.wavenis-osa.org/
+ 
+Web3D Consortium
+Develops and maintains royalty-free ISO standards for web-based 3D graphics. http://www.web3d.org/
+ 
+Web Analytics Association
+Promotes a global understanding of web analytics
+http://www.webanalyticsassociation.org/
+ 
+Web Quality of Experience Workgroup (WebQoE)
+Sets standards of excellence for the online customer experience by delivering best-practice, high-value Internet Solutions
+ 
+Wireless Innovation Forum (formerly the Software Defined Radio Forum, SDR Forum)
+Developed deployment and use of open architectures for advanced wireless systems
+http://www.wirelessinnovation.org/
+ 
+Wireless Industrial Technology Konsortium (WiTECK)
+Develops open source
+http://witeck.org/
+ 
+X Consortium
+Developed the Unix X Window System and Related Standards
+ 
+XBRL International
+Develops and coordinates the use of XBRL globally
+http://www.xbrl.org/Home/
+ 
+XBRL United States
+Develops financial reporting standards
+http://www.xbrl.org/us/
+ 
+Xen Project
+Develops and Supports the Xen open source virtualization platform
+http://www.xenproject.org/
+ 
+Yocto Project
+Develops custom Linux-based systems for embedded products regardless of the hardware architecture
+http://www.yoctoproject.org/

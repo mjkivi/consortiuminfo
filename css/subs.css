@@ -1,0 +1,164 @@
+/* ---------------------------------------------------------- */
+/* SUBS STRUCTURE */
+/* ---------------------------------------------------------- */
+.SubsContent {
+	margin: 0px;
+	padding: 0px;
+	clear: both;
+	background: #ffffff;
+	display:block;
+}
+
+.SubsSideSponsor {
+	width: 154px;
+	background: #f2f6f6;
+	margin: 12px 0px 0px 0px;
+	padding: 0px;
+	float: left;
+}
+
+.SubsMain {
+	width: 580px;
+	margin: 0px;
+	padding: 0px 0px 0px 22px;
+	float: left;
+}
+
+.SubsMain h1 {
+	font-family: georgia,serif;
+	font-size: 28px;
+	color: #000000;
+	text-align: center;
+	margin: 0px;
+	padding: 15px 0px 0px 0px;
+}
+
+/************************/
+
+.SubsSectionHeader {
+	font-family: georgia,serif;
+	font-size: 16px;
+	color: #006668;
+	text-align: center;
+	letter-spacing: .2em;
+	margin: 0px;
+	padding: 15px 0px 0px 0px;
+}
+
+/************************/
+
+.SubTopDiscWrap {
+	padding: 10px 55px 0px 55px;
+}
+
+.SubTopDisc {
+	font-family: verdana,arial,sans-serif;
+	font-size: 11px;
+	line-height: 13px;
+	font-style: italic;
+	color: #666666;
+	text-align: center;
+	margin: 0px;
+	padding: 5px 15px 5px 15px;
+	border: 1px solid #666666;
+}
+
+/************************/
+
+table.about {
+	padding: 0px;
+	margin: 0px;
+}
+
+td.aboutleft {
+	padding: 0px 10px 20px 0px;
+	margin: 0px;
+}
+
+td.aboutright {
+	padding: 0px 0px 20px 0px;
+	margin: 0px;
+}
+
+table.rss1 {
+	padding: 0px;
+	margin: 0px;
+	border-collapse: collapse;
+}
+
+table.rss1 td {
+	border: 1px solid #555555;
+	border-collapse: collapse;
+	padding: 5px;
+	margin: 0px;
+}
+
+table.newssub1 {
+	padding: 0px;
+	margin: 0px;
+}
+
+table.newssub1 td {
+	padding: 5px;
+	margin: 0px;
+}
+
+table.sitemap {
+	width: 100%;
+	padding: 0px;
+	margin: 0px 0px 0px 0px;
+}
+
+table.sitemap td {
+	width: 50%;
+	padding: 5px 15px 5px 5px;
+	margin: 0px;
+	vertical-align: top;
+}
+
+table.sitemap p {
+	padding: 15px 0px 0px 0px;
+	margin: 0px;
+	color: #000099;
+}
+
+table.sitemap ul {
+	padding: 5px 0px 0px 15px;
+	margin: 0px 0px 0px 0px;
+}
+
+/************************/
+
+.SubsMain h5 {
+	font-family: Georgia, serif;
+	font-size: 120%;
+	text-align: center;
+	color: #000000;
+	padding: 20px 0px 0px 0px;
+	margin: 0px;
+}
+
+.SubsMain h6 {
+	font-family: Georgia, serif;
+	font-size: 100%;
+	text-align: center;
+	color: #000000;
+	padding: 10px 0px 10px 0px;
+	margin: 0px;
+}
+
+/************************/
+
+/* ---------------------------------------------------------- */
+/* RULES */
+/* ---------------------------------------------------------- */
+div.hr { display: none; }
+/*/*/a{}
+div.hr {
+	display: block;
+	height: 11px;
+	background: url(../images/layout/hr_rule.gif) no-repeat center center;
+	margin: 0px;
+	padding: 0px;
+}
+hr { display:none; }

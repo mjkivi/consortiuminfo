@@ -1,0 +1,19 @@
+
+RewriteEngine on
+
+<Files 403.shtml>
+order allow,deny
+allow from all
+</Files>
+
+deny from 209.8.22.250
+
+RewriteCond %{HTTPS} off
+//RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+ErrorDocument 404 /cons_error.php
+RewriteCond %{HTTP_HOST} ^consortiuminfo\.org$
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule ^(.*)$ "https\:\/\/www\.consortiuminfo\.org\/$1" [R=301,L]
+

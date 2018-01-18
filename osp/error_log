@@ -1,0 +1,7 @@
+[07-Sep-2009 02:18:35] PHP Warning:  PHP Startup: mm_create(0, /tmp/session_mm_cgi510) failed, err mm:core: failed to open semaphore file (File exists) in Unknown on line 0
+[28-Dec-2009 15:12:10] PHP Warning:  PHP Startup: mm_create(0, /tmp/session_mm_cgi510) failed, err mm:core: failed to open semaphore file (File exists) in Unknown on line 0
+[19-Feb-2010 08:07:07] PHP Warning:  PHP Startup: mm_create(0, /tmp/session_mm_cgi510) failed, err mm:core: failed to open semaphore file (File exists) in Unknown on line 0
+[18-Sep-2016 18:52:45 America/Chicago] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/consor5/public_html/includes/clients.php on line 49
+[18-Sep-2016 18:52:45 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/consor5/public_html/includes/clients.php on line 51
+[18-Sep-2016 18:52:45 America/Chicago] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Too many connections in /home/consor5/public_html/includes/clients.php on line 53
+[18-Sep-2016 18:52:45 America/Chicago] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/consor5/public_html/includes/clients.php on line 53

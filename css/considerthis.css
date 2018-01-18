@@ -1,0 +1,122 @@
+/* ---------------------------------------------------------- */
+/* CONSIDER THIS STRUCTURE */
+/* ---------------------------------------------------------- */
+.ConThisContent {
+	margin: 0px;
+	padding: 0px;
+	clear: both;
+	background: #ffffff;
+	display:block;
+}
+
+.ConThisSideSponsor {
+	width: 154px;
+	background: #f2f6f6;
+	margin: 12px 0px 0px 0px;
+	padding: 0px;
+	float: left;
+}
+
+.ConThisMain {
+	width: 580px;
+	margin: 0px;
+	padding: 0px 0px 0px 22px;
+	float: left;
+}
+
+.ConThisMain h1 {
+	font-family: georgia,serif;
+	font-size: 28px;
+	color: #000000;
+	text-align: center;
+	margin: 0px;
+	padding: 15px 0px 5px 0px;
+}
+
+.ConThisMain h6 {
+	font-family: georgia,serif;
+	font-size: 14px;
+	color: #933100;
+	text-align: center;
+	margin: 0px;
+	padding: 5px 0px 3px 0px;
+}
+
+/************************/
+
+.ConThisBlurbDate {
+	font-family: georgia,serif;
+	font-size: 14px;
+	color: #000000;
+	text-align: left;
+	margin: 0px;
+	padding: 10px 0px 2px 0px;
+}
+
+.ConThisBlurbTitle {
+	font-family: georgia,serif;
+	font-size: 16px;
+	color: #001c9d;
+	text-align: left;
+	margin: 0px;
+	padding: 0px;
+}
+.ConThisBlurbTitle a:link, .ConThisBlurbTitle a:visited {
+	color: #001c9d;
+	text-decoration: underline;
+}
+.ConThisBlurbTitle a:hover { text-decoration: none; }
+
+.ConThisBlurbBody {
+	font-family: verdana,arial,sans-serif;
+	font-size: 13px;
+	line-height: 16px;
+	color: #000000;
+	text-align: left;
+	margin: 0px;
+	padding: 2px 10px 0px 0px;
+}
+.ConThisBlurbBody a:link, .ConThisBlurbBody a:visited {
+	color: #001c9d;
+	text-decoration: underline;
+}
+.ConThisBlurbBody a:hover { text-decoration: none; }
+
+/************************/
+
+.ConThisOpinionWrap {
+	padding: 10px 55px 15px 55px;
+}
+
+.ConThisOpinion {
+	font-family: verdana,arial,sans-serif;
+	font-size: 11px;
+	line-height: 13px;
+	font-style: italic;
+	color: #666666;
+	text-align: center;
+	margin: 0px;
+	padding: 5px 15px 5px 15px;
+	border: 1px solid #666666;
+}
+
+/************************/
+
+table.tableArchive td { vertical-align: top; }
+table.ConThisT1 { border-collapse: collapse; }
+table.ConThisT1 td { border: 1px solid #000000; padding: 2px; }
+
+/************************/
+/* ---------------------------------------------------------- */
+/* RULES */
+/* ---------------------------------------------------------- */
+div.hr { display: none; }
+/*/*/a{}
+div.hr {
+	display: block;
+	height: 11px;
+	background: url(../images/layout/hr_rule.gif) no-repeat center center;
+	margin: 0px;
+	padding: 0px;
+}
+hr { display:none; }

@@ -1,0 +1,120 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<!-- <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"> -->
+<html {lang_attribute} xmlns:fb="http://ogp.me/ns/fb#">
+<head> 
+<title>{page_title_and_site_name}</title>
+<meta http-equiv="Content-Script-Type" content="text/javascript"{xhtml}>
+<meta http-equiv="Content-Style-Type" content="text/css"{xhtml}>
+
+<!-- link rel="SHORTCUT ICON" href="{site_url}/favicon.ico" -->
+<!-- <meta http-equiv="Pragma" content="no-cache"{xhtml}> -->
+<link rel="stylesheet" type="text/css" media="screen, projection" href="/consortiuminfo2017/css/screen.css" />
+<link rel="stylesheet" type="text/css" media="screen, projection" href="/consortiuminfo2017/css/toolsets.css" />
+<script type="text/javascript">AC_FL_RunContent = 0;</script>
+<script type="text/javascript" src="/scripts/AC_RunActiveContent.js"></script>
+<script type="text/javascript" src="/scripts/obfuscate.js"></script>
+
+<link rel="stylesheet" type="text/css" href="{css_url}" title="{theme}"{xhtml}>
+{feed_url}
+{rel_links}
+{plg_headercode}
+{advanced_editor}
+<!-- Load Common Javascript Libraries -->
+<script type="text/javascript" src="{site_url}/javascript/common.js"></script>
+<?php
+	$current_page=$_SERVER['REQUEST_URI'];
+	$story=$_GET['story'];	
+	if (false !== strpos($current_page,'/standardsblog/article.php')) {
+		echo "<meta property='og:title' content='{page_title}'/>";
+		echo "<meta property='og:type' content='website'/>";
+		echo "<meta property='og:url' content='http://www.consortiuminfo.org/standardsblog/article.php?story=".$story."'/>";
+		echo "<meta property='og:site_name' content='Consortiuminfo.org Standards Blog'/>";
+		echo "<meta property='fb:admins' content='100005492701469'/>";
+		echo "<meta property='fb:app_id' content='137378376433571' /> ";
+		//echo "<meta property='og:description' content='{story_introtext_only}'/>";
+	} else {
+		echo "<meta property='og:title' content='{page_title}'/>";
+		echo "<meta property='og:type' content='website'/>";
+		echo "<meta property='og:url' content='http://www.consortiuminfo.org/standardsblog'/>";
+		echo "<meta property='og:site_name' content='Consortiuminfo.org Standards Blog'/>";
+		echo "<meta property='fb:admins' content='100005492701469'/>";
+		echo "<meta property='fb:app_id' content='137378376433571' /> ";	
+	}
+?>
+</head>
+<body dir="{direction}">
+	<!--start fb sdk -->
+	<div id="fb-root"></div>
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=137378376433571";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+	<!--end fb sdk -->
+	<!-- *********** -->
+	<!--   MASTHEAD    -->
+	<!-- *********** -->
+	<div id="mastheadSB">
+		<div id="mastnav">
+			<ul class="mast">
+				<!--<li id="mastnav-about"><a href="/aboutsite/" title="About This Site">About</a></li>-->
+				<!--<li id="mastnav-bookstore"><a href="/books/" title="Bookstore">Bookstore</a></li>-->
+				<li id="mastnav-sitemap"><a href="/sitemap/" title="Sitemap">Sitemap</a></li>
+			</ul>
+		</div>
+		<div id="header">
+			<a href="http://www.gesmer.com/industries.php?ServiceID=9" title="Sponsored By GesmerUpdegrove LLP"><img class="imgsponserV2" src="/navigation/mast_spons_GU_v2.gif" alt="Sponsored By GesmerUpdegrove LLP" height="63" width="180" border="0" /></a>
+			<h1>ConsortiumInfo.org</h1>
+			<p class="taglineSB">Your online research resource for Standards and Standard Setting.</p>
+		</div>
+		<!--  NAVIGATION -->
+		<div id="nav" style="padding-left:89px;">
+			<ul class="top">
+				<li id="nav-home"><a href="/" title="Home Page">Home</a></li>
+				<li id="nav-about"><a href="/aboutsite/" title="About Consortium Info">About</a></li>
+				<li id="nav-blog"><a href="/standardsblog/" title="The Standards Blog" class="active">Blog</a></li>
+				<li id="nav-bulletin"><a href="/bulletins/" title="Consortium Standards Journal">Journal</a></li>
+				<li id="nav-metalibrary"><a href="/metalibrary/" title="MetaLibrary">MetaLibrary</a></li>
+				<li id="nav-guide"><a href="/essentialguide/" title="The Essential Guide to Standard Setting and Consortia">Guide</a></li>
+				<li id="nav-news"><a href="/news/" title="Standards News">News</a></li>
+				<li id="nav-consider"><a href="/blog/" title="Consider This">Consider This</a></li>
+				<li id="nav-list"><a href="/links/" title="Consortium and Standards List">List</a></li>
+			</ul>
+		</div>
+		<div class="clear"></div>
+	</div>
+	
+	<!-- *********** -->
+	<!--   BANNER    -->
+	<!-- *********** -->
+	<div id="bannerSB">
+		<div class="left">
+			<p style="padding:10px 0px 10px 10px;"><a href="/">Home</a> &gt; Standards Blog</p>
+		</div>
+		<div class="right">
+			<form class="searchform-elements" action="{site_url}/search.php" method="get">
+				<div style="padding:10px 10px 10px 0px;">
+					<input type="text" name="query" maxlength="255" value=""{xhtml}>
+					<input type="hidden" name="type" value="all"{xhtml}>
+					<input type="hidden" name="mode" value="search"{xhtml}>
+					<input type="submit" value="Search Blog"{xhtml}>
+					<a href="{site_url}/search.php" class="advancedsearch" style="padding-left:17px;">Advanced Search</a>&nbsp;
+				</div>
+			</form>
+		</div>
+		<div class="clear"></div>
+	</div>
+			
+	<table cellspacing="0" cellpadding="0" border="0" class="MainTable" align="center">
+        <tr>
+            {left_blocks}
+            <td class="story-container" style="width:500px; vertical-align:top;">
+            	<img src="/standardsblog/layout/redesign/images/sb_main_image.gif" width="500" height="95" border="0" alt="" />
+            	<p class="header-welcomeanddate-text">
+                    <b>{welcome_msg}</b><br{xhtml}>{datetime}
+                </p>
+				<img src="/standardsblog/layout/redesign/images/sb_main_dots.gif" width="500" height="23" border="0" alt="" />
+                <!-- START OF CONTENT AREA -->

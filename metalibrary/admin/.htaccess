@@ -1,0 +1,6 @@
+# AuthType Basic
+# AuthName "Restricted Area"
+# AuthUserFile "/home/consor5/.htpasswds/public_html/metalibrary/admin/passwd"
+# AuthUserFile "/home/consor5/.htpasswds/public_html/links/admin/passwd
+# require valid-user
+

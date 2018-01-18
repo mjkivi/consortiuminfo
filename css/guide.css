@@ -1,0 +1,129 @@
+/* ---------------------------------------------------------- */
+/* ESSENTIAL GUIDE STRUCTURE */
+/* ---------------------------------------------------------- */
+.GuideContent {
+	margin: 0px;
+	padding: 0px;
+	clear: both;
+	background: #ffffff;
+	display:block;
+}
+
+.GuideSideSponsor {
+	width: 154px;
+	background: #f2f6f6;
+	margin: 12px 0px 0px 0px;
+	padding: 0px;
+	float: left;
+}
+
+.GuideMain {
+	width: 580px;
+	margin: 0px;
+	padding: 0px 0px 0px 22px;
+	float: left;
+}
+
+.GuideMain h1 {
+	font-family: georgia,serif;
+	font-size: 28px;
+	color: #000000;
+	text-align: center;
+	margin: 0px;
+	padding: 15px 0px 0px 0px;
+}
+
+/************************/
+
+table.GuideHelp { 
+	background: #f2f6f6;
+	width: 580px;
+	margin: 0px 0px 10px 0px;
+	padding: 0px;
+}
+
+.GuideHelpHead {
+	font-family: georgia,serif;
+	font-size: 18px;
+	color: #000000;
+	text-align: center;
+	margin: 0px;
+	padding: 10px 0px 8px 0px;
+}
+
+.GuideHelpBody1, .GuideHelpBody2 {
+	font-family: verdana,arial,sans-serif;
+	font-size: 11px;
+	line-height: 14px;
+	color: #000000;
+	text-align: left;
+	padding: 0px 15px 15px 0px;
+	margin: 0px;
+}
+
+.GuideHelpBody2 { text-align: center; }
+
+/************************/
+
+.GuideSectionHeader {
+	font-family: georgia,serif;
+	font-size: 16px;
+	color: #006668;
+	text-align: center;
+	letter-spacing: .2em;
+	margin: 0px;
+	padding: 15px 0px 0px 0px;
+}
+
+.GuideSectionTitle {
+	font-family: georgia,serif;
+	font-size: 16px;
+	color: #001c9d;
+	text-align: left;
+	margin: 0px;
+	padding: 4px 0px 0px 0px;
+}
+
+.GuideSectionTitle a:link, .GuideSectionTitle a:visited {
+	color: #001c9d;
+	text-decoration: underline;
+}
+
+.GuideSectionTitle a:hover { text-decoration: none; }
+
+.GuideSectionBody {
+	font-family: verdana,arial,sans-serif;
+	font-size: 12px;
+	line-height: 16px;
+	color: #000000;
+	text-align: left;
+	margin: 0px;
+	padding: 0px 10px 15px 0px;
+}
+
+.GuideSectionBody a:link, .GuideSectionBody a:visited {
+	color: #001c9d;
+	white-space: nowrap;
+	text-decoration: underline;
+}
+
+.GuideSectionBody a:hover { text-decoration: none; }
+
+/************************/
+
+table.EssGuideT1 { border-collapse: collapse; }
+table.EssGuideT1 td { border: 1px solid #000000; padding: 2px; }
+
+/* ---------------------------------------------------------- */
+/* RULES */
+/* ---------------------------------------------------------- */
+div.hr { display: none; }
+/*/*/a{}
+div.hr {
+	display: block;
+	height: 11px;
+	background: url(../images/layout/hr_rule.gif) no-repeat center center;
+	margin: 0px;
+	padding: 0px;
+}
+hr { display:none; }

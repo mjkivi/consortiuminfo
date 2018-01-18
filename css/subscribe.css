@@ -1,0 +1,112 @@
+/* ---------------------------------------------------------- */
+/* SUBSCRIBE STRUCTURE */
+/* ---------------------------------------------------------- */
+.SubscribeContent {
+	margin: 0px;
+	padding: 0px;
+	clear: both;
+	background: #ffffff;
+	display:block;
+}
+
+.SubscribeSideSponsor {
+	width: 154px;
+	background: #f2f6f6;
+	margin: 12px 0px 0px 0px;
+	padding: 0px;
+	float: left;
+}
+
+.SubscribeMain {
+	width: 580px;
+	margin: 0px;
+	padding: 0px 0px 0px 22px;
+	float: left;
+}
+
+.SubscribeMain h1 {
+	font-family: georgia,serif;
+	font-size: 28px;
+	color: #000000;
+	text-align: center;
+	margin: 0px;
+	padding: 15px 0px 0px 0px;
+}
+
+.SubscribeMain h2 {
+	font-family: georgia,serif;
+	font-size: 20px;
+	color: #000000;
+	text-align: center;
+	margin: 0px;
+	padding: 15px 0px 0px 0px;
+}
+
+.human { display: none; }
+
+/************************/
+
+form { display: inline; }
+
+input { font-family: verdana,helvetica,sans-serif; color: #000000; font-size: 13px; }
+
+select { font-family: verdana,helvetica,sans-serif; color: #000000; font-size: 13px; }
+
+textarea { font-family: verdana,helvetica,sans-serif; color: #000000; font-size: 13px; }
+
+table.Subscribe { 
+	background: #ffffff;
+	margin: 0px 0px 10px 0px;
+	padding: 0px;
+}
+
+td.SubLeft { 
+	text-align: right;
+	margin: 0px;
+	padding: 0px 0px 20px 0px;
+}
+
+td.SubLeft p { 
+	text-align: right;
+	font-family: verdana,helvetica,sans-serif;
+	color: #000000;
+	font-size: 13px;
+	margin: 0px;
+	padding: 0px;
+	white-space: nowrap;
+}
+
+td.Note { 
+	text-align: left;
+	margin: 0px;
+	padding: 0px;
+}
+
+td.Note p { 
+	text-align: left;
+	font-family: verdana,helvetica,sans-serif;
+	color: #f33838;
+	font-size: 12px;
+	margin: 0px;
+	padding: 12px 0px 15px 0px;
+}
+
+td.SubRight { 
+	text-align: left;
+	margin: 0px;
+	padding: 0px 0px 20px 8px;
+}
+
+/* ---------------------------------------------------------- */
+/* RULES */
+/* ---------------------------------------------------------- */
+div.hr { display: none; }
+/*/*/a{}
+div.hr {
+	display: block;
+	height: 11px;
+	background: url(../images/layout/hr_rule.gif) no-repeat center center;
+	margin: 0px;
+	padding: 0px;
+}
+hr { display:none; }

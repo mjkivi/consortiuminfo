@@ -1,0 +1,47 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>{page_title}</title>
+<!-- link rel="SHORTCUT ICON" href="{site_url}/favicon.ico" -->
+<!--
+<meta http-equiv="Pragma" content="no-cache">
+-->
+<link rel="stylesheet" type="text/css" href="{css_url}" title="{theme}">
+{feed_url}
+{rel_links}
+{plg_headercode}
+{advanced_editor}
+<!-- Load Common Javascript Libraries -->
+<script type="text/javascript" src="{site_url}/javascript/common.js"></script>
+
+</head>
+
+<body dir="{direction}">
+    <div class="header-navigation-container">
+        <div class="header-navigation-line">
+            {menu_elements}
+        </div>
+    </div>
+    <div class="header-logobg-container-outer">
+        <table width="100%" border="0" cellpadding="0" cellspacing="0" class="header-logobg-container-inner">
+            <tr>
+                <td class="header-logobg-left">
+                    <a href="{site_url}/"><img src="{site_logo}" width="151" height="56" alt="{site_name}" border="0"></a>
+                </td>
+                <td class="header-logobg-right">
+                    <span class="site-slogan">{site_slogan}</span>
+                </td>
+            </tr>
+        </table>
+    </div>
+    <table border="0" cellspacing="0" cellpadding="0" width="100%">
+        <tr>
+            {left_blocks}
+            <td class="story-container" width="100%" style="vertical-align:top;">
+                <div class="header-welcomeanddate-box">
+                    <div class="header-welcomeanddate-text">
+                        <a href="{site_url}">{welcome_msg}</a><br>{datetime}
+                    </div>
+                </div>
+
+                <!-- START OF CONTENT AREA -->

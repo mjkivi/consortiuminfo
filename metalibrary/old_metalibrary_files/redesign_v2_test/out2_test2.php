@@ -1,0 +1,19 @@
+<? 
+//Redirect browser to web site 
+$EID=$_GET["EID"];
+header("Location: http://www.consortiuminfo.org/metalibrary/old_metalibrary_files/redesign_v2_test/detail2_test2.php?EID=$EID"); 
+
+//connect to dbase like this: 
+$db = mysql_connect("localhost", "consor5", "bgt667");
+
+// pedro is the name of the database in this case 
+mysql_select_db("consor5_library", $db);
+
+// update the database: 
+// clickcount is the table, with 2 columns: id and clicks 
+$sql="UPDATE entries SET accessed=accessed+1 WHERE (id = '".$_GET["EID"]."')"; 
+$result=mysql_query($sql,$db); 
+
+// just to be nice 
+exit(); 
+?> 

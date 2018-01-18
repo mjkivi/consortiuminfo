@@ -1,0 +1,2 @@
+!function(Drupal,$,window){Drupal.behaviors.basic={attach:function(context,settings){$("#clients").cycle({fx:"fade",speed:200,timeout:2e3}),$(window).load(function(){}),$(window).resize(function(){}),$(window).scroll(function(){}),$("#block-basic-breadcrumbs nav.breadcrumb ol").once("awesome").prepend('<li><a href="http://www.consortiuminfo.org">Home</a></li> ')}}}(Drupal,jQuery,this);
+//# sourceMappingURL=scripts.js.map

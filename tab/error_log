@@ -1,0 +1,8 @@
+[14-Nov-2015 20:41:49 America/Chicago] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'consor5'@'localhost' (using password: YES) in /home/consor5/public_html/tab/footer.php on line 30
+[14-Nov-2015 20:41:49 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/consor5/public_html/tab/footer.php on line 32
+[14-Nov-2015 20:41:49 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/consor5/public_html/tab/footer.php on line 34
+[14-Nov-2015 20:41:49 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/consor5/public_html/tab/footer.php on line 37
+[27-Feb-2016 09:30:49 America/Chicago] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'consor5'@'localhost' (using password: YES) in /home/consor5/public_html/tab/footer.php on line 30
+[27-Feb-2016 09:30:49 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/consor5/public_html/tab/footer.php on line 32
+[27-Feb-2016 09:30:49 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/consor5/public_html/tab/footer.php on line 34
+[27-Feb-2016 09:30:49 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/consor5/public_html/tab/footer.php on line 37

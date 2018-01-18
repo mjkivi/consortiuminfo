@@ -1,0 +1,32 @@
+<!-- Start of Right Blocks -->
+<td class="block-featured-right" style="width:220px; vertical-align:top;" valign="top">
+
+	<!-- <table cellspacing="0" cellpadding="0" border="0">
+		<tr><td><img src="/standardsblog/layout/redesign/images/sb_rightside_dots2.gif" width="220" height="1" border="0" alt="" /></td></tr>
+	</table>
+	<table cellspacing="0" cellpadding="0" border="0">
+		<tr>
+			<td><p class="Subhead1">FEEDS:</p></td>
+			<td><a href="http://www.consortiuminfo.org/standardsblog/backend/geeklog.rss"><img src="/standardsblog/layout/redesign/images/sb_rightside_rssicon.gif" width="54" height="26" border="0" alt="RSS" style="margin-right:3px;" /></a></td>
+			<td><a href="http://www.consortiuminfo.org/standardsblog/backend/atom.xml"><img src="/standardsblog/layout/redesign/images/sb_rightside_atomicon.gif" width="62" height="26" border="0" alt="ATOM" /></a></td>
+		</tr>
+	</table>
+	<table cellspacing="0" cellpadding="0" border="0">
+		<tr><td><img src="/standardsblog/layout/redesign/images/sb_rightside_dots2.gif" width="220" height="1" border="0" alt="" /></td></tr>
+	</table> -->
+	
+	<div class="block-bg-right">
+		<h5 style="padding-top:18px;">ABOUT THE<br />STANDARDS BLOG</h5>
+		<img src="/standardsblog/layout/redesign/images/sb_rightside_img1.jpg" width="220" height="140" border="0" alt="" />
+		<p>There are over 1,000,000 supported standards, with more being developed all the time. <strong><em>The Standards Blog</em></strong> examines how standards are developed, and their impact on business, society, and the future. This site is hosted by Gesmer Updegrove LLP, a technology law firm based in Boston, Massachusetts, USA. GU is an <a href="http://www.gesmer.com/industries.php?ServiceID=9">internationally recognized leader</a> in creating and representing the organizations that create and promote standards and open source software. The opinions expressed in <strong><em>The Standards Blog</em></strong> are those of <a href="http://www.gesmer.com/team.php?PeopleID=67">Andy Updegrove</a> alone, and not necessarily those of GU. Please see the Terms of Use and Privacy Policy for this site, which <a href="/terms/">appear here</a>.</p>
+		<img src="/standardsblog/layout/redesign/images/sb_rightside_dots.gif" width="220" height="37" border="0" alt="" />
+	</div>
+	
+	<div class="block-bg-right">
+		{geeklog_blocks}
+		<!-- <div class="block-bg-spreader"></div> -->
+	</div>
+	
+</td>
+<!--</td></tr></table>-->
+<!--If you want the splash, uncomment the last line. If you want no splash, make sure it is commented out.-->

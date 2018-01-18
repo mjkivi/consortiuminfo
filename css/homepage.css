@@ -1,0 +1,399 @@
+/* ---------------------------------------------------------- */
+/* MAIN STRUCTURE */
+/* ---------------------------------------------------------- */
+.HomeContent {
+	margin: 0px;
+	padding: 0px;
+	clear: both;
+	background: #ffffff;
+	display:block;
+}
+
+.HomeMain {
+	width: 586px;
+	margin: 0px;
+	padding: 0px 0px 0px 22px;
+	float: left;
+}
+
+.HomeMain h1 {
+	font-family: georgia,serif;
+	font-size: 28px;
+	color: #000000;
+	text-align: center;
+	margin: 0px;
+	padding: 0px 0px 5px 0px;
+}
+
+
+/* ---------------------------------------------------------- */
+/* RULES */
+/* ---------------------------------------------------------- */
+div.hr { display: none; }
+/*/*/a{}
+div.hr {
+	display: block;
+	height: 11px;
+	background: url(../images/layout/hr_rule.gif) no-repeat center center;
+	margin: 0px;
+	padding: 0px;
+}
+hr { display:none; }
+
+
+/* ---------------------------------------------------------- */
+/* SIDEBAR SPONSOR BOX */
+/* ---------------------------------------------------------- */
+.SideSponsor {
+	width: 154px;
+	background: #f2f6f6;
+	margin: 55px 0px 0px 0px;
+	padding: 0px;
+	float: left;
+}
+
+.SideSponsorTxt1 {
+	font-family: verdana,arial,sans-serif;
+	font-size: 12px;
+	line-height: 13px;
+	color: #000000;
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+}
+
+.SideSponsorTxt1 a:link, .SideSponsorTxt1 a:visited {
+	color: #001c9d;
+	text-decoration: underline;
+}
+
+.SideSponsorTxt1 a:hover { text-decoration: none; }
+
+.SideSponsorTxt2 {
+	font-family: verdana,arial,sans-serif;
+	font-size: 12px;
+	line-height: 16px;
+	color: #000000;
+	text-align: left;
+	margin: 0px;
+	padding: 0px 10px 0px 10px;
+}
+
+
+/* ---------------------------------------------------------- */
+/* SIDEBAR PRO SERVICES DIRECTORY */
+/* ---------------------------------------------------------- */
+.SideProServDir {
+	width: 154px;
+	background: #f2f6f6;
+	margin: 15px 0px 0px 0px;
+	padding: 0px;
+	float: left;
+}
+
+.SideProServDirHead {
+	font-family: georgia,serif;
+	font-size: 18px;
+	line-height: 17px;
+	color: #000000;
+	text-align: center;
+	margin: 0px;
+	padding: 15px 0px 0px 0px;
+}
+
+
+/* ---------------------------------------------------------- */
+/* MAIN BODY INTRO */
+/* ---------------------------------------------------------- */
+.MainHeader1 {
+	font-family: georgia,serif;
+	font-size: 16px;
+	color: #006668;
+	text-align: center;
+	letter-spacing: .2em;
+	margin: 0px;
+	padding: 30px 0px 2px 0px;
+}
+
+.MainHeader2 {
+	font-family: georgia,serif;
+	font-size: 24px;
+	color: #000000;
+	text-align: center;
+	margin: 0px;
+	padding: 0px 0px 18px 0px;
+}
+
+.MainBody1 {
+	font-family: verdana,arial,sans-serif;
+	font-size: 13px;
+	line-height: 16px;
+	color: #000000;
+	text-align: left;
+	margin: 0px;
+	padding: 0px 10px 15px 0px;
+}
+
+
+/* ---------------------------------------------------------- */
+/* SITE TOUR BOX */
+/* ---------------------------------------------------------- */
+.SiteTourBox {
+	width: 495px;
+	margin: 0px auto;
+	padding: 0px 0px 5px 0px;
+	display: block;
+	background: #f2f6f6;
+}
+
+.SiteTourHead {
+	font-family: georgia,serif;
+	font-size: 18px;
+	color: #000000;
+	text-align: center;
+	margin: 0px;
+	padding: 10px 0px 6px 0px;
+}
+
+.SiteTourBody {
+	font-family: verdana,arial,sans-serif;
+	font-size: 11px;
+	line-height: 14px;
+	color: #000000;
+	text-align: left;
+	margin: 0px;
+	padding: 0px 20px 5px 15px;
+}
+
+.TakeTourImg {
+	margin: 0px auto;
+	display: block;
+}
+
+
+/* ---------------------------------------------------------- */
+/* SECTIONS */
+/* ---------------------------------------------------------- */
+.SectionAnchors {
+	font-family: verdana,arial,sans-serif;
+	font-size: 12px;
+	margin: 0px;
+	padding: 10px 0px 0px 0px;
+	text-align: center;
+}
+
+.SectionAnchors a:link, .SectionAnchors a:visited {
+	color: #001c9d;
+	margin: 0px;
+	padding: 0px 0px 0px 10px;
+	background: url(../images/icons/icon_home_sections.gif) no-repeat left center;
+	text-decoration: underline;
+}
+
+.SectionAnchors a:hover { text-decoration: none; }
+
+.SectionHeader {
+	font-family: georgia,serif;
+	font-size: 16px;
+	color: #006668;
+	text-align: center;
+	letter-spacing: .2em;
+	margin: 0px;
+	padding: 40px 0px 0px 0px;
+}
+
+.SectionContent {
+	width: 586px;
+	height: 290px;
+	margin: 0px;
+	padding: 0px;
+	overflow: auto;
+}
+
+.SectionViewHome {
+	font-family: verdana,arial,sans-serif;
+	font-size: 12px;
+	color: #001c9d;
+	margin: 0px;
+	padding: 0px 0px 10px 0px;
+	text-align: center;
+}
+
+.SectionViewHome a:link, .SectionViewHome a:visited {
+	color: #001c9d;
+	text-decoration: underline;
+}
+
+.SectionViewHome a:hover { text-decoration: none; }
+
+
+/* ---------------------------------------------------------- */
+/* JOURNAL */
+/* ---------------------------------------------------------- */
+.JournalHeader {
+	font-family: georgia,serif;
+	font-size: 14px;
+	color: #000000;
+	text-align: center;
+	margin: 0px;
+	padding: 2px 0px 7px 0px;
+}
+
+.JournalHeader span { font-size: 12px; }
+
+.JournalSection {
+	font-family: georgia,serif;
+	font-size: 12px;
+	color: #006668;
+	text-align: left;
+	letter-spacing: .2em;
+	margin: 0px;
+	padding: 0px;
+}
+
+.JournalTitle {
+	font-family: verdana,arial,sans-serif;
+	font-size: 12px;
+	color: #000000;
+	text-align: left;
+	margin: 0px;
+	padding: 0px 0px 2px 0px;
+}
+
+.JournalTitle a:link, .JournalTitle a:visited {
+	color: #001c9d;
+	text-decoration: underline;
+}
+
+.JournalTitle a:hover { text-decoration: none; }
+
+.JournalBody {
+	font-family: verdana,arial,sans-serif;
+	font-size: 12px;
+	line-height: 15px;
+	color: #000000;
+	text-align: left;
+	margin: 0px;
+	padding: 0px 15px 10px 0px;
+}
+
+.JournalBody a:link, .JournalBody a:visited {
+	color: #001c9d;
+	white-space: nowrap;
+	text-decoration: underline;
+}
+
+.JournalBody a:hover { text-decoration: none; }
+
+
+/* ---------------------------------------------------------- */
+/* BLOG */
+/* ---------------------------------------------------------- */
+.BlogTitle {
+	font-family: georgia,serif;
+	font-size: 16px;
+	color: #001c9d;
+	text-align: left;
+	margin: 0px;
+	padding: 4px 0px 0px 0px;
+}
+
+.BlogTitle a:link, .BlogTitle a:visited {
+	color: #001c9d;
+	text-decoration: underline;
+}
+
+.BlogTitle a:hover { text-decoration: none; }
+
+.BlogBody {
+	font-family: verdana,arial,sans-serif;
+	font-size: 12px;
+	line-height: 16px;
+	color: #000000;
+	text-align: left;
+	margin: 0px;
+	padding: 0px 10px 15px 0px;
+}
+
+.BlogBody a:link, .BlogBody a:visited {
+	color: #001c9d;
+	white-space: nowrap;
+	text-decoration: underline;
+}
+
+.BlogBody a:hover { text-decoration: none; }
+
+
+/* ---------------------------------------------------------- */
+/* NEWS */
+/* ---------------------------------------------------------- */
+table.NewsHead {
+	width: 565px;
+	padding: 0px;
+	margin: 0px;
+}
+
+table.NewsBody {
+	width: 565px;
+	padding: 0px;
+	margin: 0px;
+}
+
+table.NewsBody td {
+	padding-bottom: 3px;
+}
+
+.NewsHead {
+	font-family: verdana,arial,sans-serif;
+	font-size: 12px;
+	color: #000000;
+	text-align: left;
+	margin: 0px;
+	padding: 0px;
+}
+
+.NewsBody {
+	font-family: verdana,arial,sans-serif;
+	font-size: 12px;
+	color: #001c9d;
+	text-align: left;
+	margin: 0px;
+	padding: 0px 10px 0px 0px;
+}
+
+.NewsBody a:link, .NewsBody a:visited {
+	color: #001c9d;
+	text-decoration: underline;
+}
+
+.NewsBody a:hover { text-decoration: none; }
+
+
+/* ---------------------------------------------------------- */
+/* ESSENTIAL GUIDE */
+/* ---------------------------------------------------------- */
+.EssGuideHead {
+	font-family: verdana,arial,sans-serif;
+	font-size: 12px;
+	color: #000000;
+	text-align: left;
+	margin: 0px;
+	padding: 8px 0px 0px 0px;
+}
+
+.EssGuideBody {
+	font-family: verdana,arial,sans-serif;
+	font-size: 12px;
+	line-height: 18px;
+	color: #000000;
+	text-align: left;
+	margin: 0px;
+	padding: 0px;
+}
+
+.EssGuideBody a:link, .EssGuideBody a:visited {
+	color: #001c9d;
+	text-decoration: underline;
+}
+
+.EssGuideBody a:hover { text-decoration: none; }
