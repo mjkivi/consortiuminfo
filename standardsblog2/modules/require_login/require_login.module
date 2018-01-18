@@ -1,6 +1,0 @@
-<?php
-
-/**
- * @file
- * Force require user authentication to access all routes.
- */

@@ -1,9 +1,0 @@
-        <span class="story-icons">
-	        <a href="http://www.consortiuminfo.org/standardsblog/profiles.php?sid={story_id}&amp;what=emailstory"><img src="http://www.consortiuminfo.org/standardsblog/layout/redesign/images/mail.png" alt="Email Article To a Friend" title="Mail Story to a Friend"></a>
-	        <a href="http://www.consortiuminfo.org/standardsblog/article.php?story={story_id}&amp;mode=print" rel="nofollow"><img src="http://www.consortiuminfo.org/standardsblog/layout/redesign/images/print.png" alt="View Printable Version" title="Printable Story Format"></a>
-	</span>
-        {formatted_article}
-        <div class="floatleft" style="width:50%;">{whats_related}</div>
-        <div class="floatleft" style="width:50%;">{story_options}</div>
-        <div class="clearboth">{trackback}</div>
-        {commentbar}
